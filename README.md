@@ -1,6 +1,8 @@
 # FastAPI
 Coletânea de materiais que utilizei para estudar sobre FastAPI
 
+<h3>O que é:</h3>
+<p>O FastAPI é um framework web para construção de APIs com Python. 
 
 Criador do FastAPI - <a href="https://github.com/tiangolo">Sebastián Ramírez | tiangolo</a><br>
 Pagina Oficial - <a href="https://fastapi.tiangolo.com/pt/"> FastAPI </a>
