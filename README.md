@@ -1,5 +1,7 @@
 # FastAPI
-Coletânea de materiais que estou utilizando para estudar sobre FastAPI
+Coletânea de materiais que estou utilizando para estudar sobre o framework.
+
+Se quiser visualizar um caso real, vá em    e veja a API que criei com FastAPI.
 
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width=200px>
 
