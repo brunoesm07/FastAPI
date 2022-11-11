@@ -33,12 +33,13 @@ O comando uvicorn main:app se refere a:
 - app: o objeto criado no arquivo main.py com a linha app = FastAPI().
 - --reload: faz o servidor reiniciar após mudanças de código. Use apenas para desenvolvimento.
 
+<br>
 
-## Conteúdos para estudo sobre o framework.
+## Conteúdos para estudo sobre Rest API e o framework FastAPI.
 
 #### Links:
 
-<a href="https://www.youtube.com/watch?v=eel1OVIdfUw&t=0s">O que é API (Application Programming Interface) e Como Usar API com Python?</a> (video) <br>
+<a href="https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/">Best practices for REST API design</a> <br>
 <a href="https://fastapi.tiangolo.com/pt/tutorial/">Tutorial</a> (conteúdo oficial)<br>
 <a href="https://medium.com/data-hackers/como-criar-a-sua-primeira-api-em-python-com-o-fastapi-50b1d7f5bb6d">Como CRIAR a sua PRIMEIRA API em python com o FastAPI</a><br>
 <a href="https://www.alura.com.br/artigos/como-criar-apis-python-usando-fastapi">Como criar APIs em Python usando FastAPI</a><br>
